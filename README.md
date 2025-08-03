@@ -8,7 +8,8 @@ A beginner‑friendly **HTML5** starter page demonstrating accessible structure 
 
 Check the semantic markup here:
 
-👉 [index.html — full source code](./index.html)
+👉 https://nattbb.github.io/A-single-HTML-file/
+
 
 
 ---
