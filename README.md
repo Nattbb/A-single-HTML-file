@@ -4,11 +4,12 @@ A beginner‑friendly **HTML5** starter page demonstrating accessible structure 
 
 ---
 
-## 📄 View the Code
+## 📄 View HTML Code
 
-Want to inspect the markup? It’s 100% semantic — no `<div>` or `<span>` — you can view it here:
+Check the semantic markup here:
 
-👉 [index.html – full source code](./index.html)
+👉 [index.html — full source code](./index.html)
+
 
 ---
 
